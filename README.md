@@ -6,7 +6,7 @@ This repository accompanies the paper:
 
 **InfantFace: Detecting infant faces in neonatal clinical environments**
 
-The repository will provide the code, trained model information, data processing scripts, annotation files, and documentation required to reproduce the experiments described in the paper.
+The repository will provide the code, trained model information, annotation files, and documentation required to reproduce the experiments described in the paper.
 
 ## Availability
 
