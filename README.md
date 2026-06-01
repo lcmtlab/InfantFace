@@ -10,14 +10,14 @@ The repository will provide the code, trained model information, annotation file
 
 ## Availability
 
-The code and data associated with this study will be made publicly available upon acceptance of the paper.
+The code and data associated with this study will be made publicly available upon acceptance of the paper. Due to ethical and privacy constraints, the neonatal reserach dataset
+used for domain adaptation and evaluation is not publicly available
 
 ## Repository contents
 
 Upon acceptance, this repository will include:
 
 * Training and evaluation code
-* Dataset preparation scripts
 * Annotation files used in the training and evaluation pipeline, where permitted
 * Model configuration files
 * Instructions for reproducing the reported experiments
